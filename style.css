@@ -39,7 +39,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: var(--clr-neutral-2);
+  background-color: var(--clr-neutral-3);
 }
 
 .flex-flow {
